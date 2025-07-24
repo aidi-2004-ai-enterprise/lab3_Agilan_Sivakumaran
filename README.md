@@ -2,6 +2,9 @@
 
 This is a fun project where I built a machine learning model to guess the type of penguin (species) based on some of its features. I used a dataset from the Seaborn library and trained a model using XGBoost. Then, I created a FastAPI app so you can send penguin info and get a prediction.
 
+### Demo Video
+Lab3-20250724_182243-Meeting Recording.mp4
+
 ---
 
 ## 🔧 How to Set It Up
@@ -32,5 +35,3 @@ http://127.0.0.1:8080/docs
 http://127.0.0.1:8080/health
 You should see: { "status": "ok" }
 
-### 7. Demo Video
-[![Demo Video](Lab3-20250724_182243-Meeting Recording.mp4)](Lab3-20250724_182243-Meeting Recording.mp4)
