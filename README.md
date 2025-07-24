@@ -1,5 +1,5 @@
 # Demo Video (Uploaded in this repo as well)
-[![Watch the video](screenshot.png)](https://youtu.be/3O7GvjWH4XY?si=s9yHDdqV8xfR6aAx)
+[![Watch the video](https://youtu.be/3O7GvjWH4XY?si=s9yHDdqV8xfR6aAx)
 
 ---
 
