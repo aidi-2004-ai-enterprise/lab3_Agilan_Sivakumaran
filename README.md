@@ -1,5 +1,5 @@
 # Demo Video (Uploaded in this repo as well)
-lab3_Agilan_Sivakumaran/DemoVideo.mp4
+[![Watch the video](screenshot.png)](https://youtu.be/3O7GvjWH4XY?si=s9yHDdqV8xfR6aAx)
 
 ---
 
