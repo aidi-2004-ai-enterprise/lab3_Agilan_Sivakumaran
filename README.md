@@ -1,5 +1,5 @@
 # Demo Video (Uploaded in this repo as well)
-lab3_Agilan_Sivakumaran/Lab3-20250724_182243-Meeting Recording.mp4
+lab3_Agilan_Sivakumaran/DemoVideo.mp4
 
 ---
 
