@@ -33,4 +33,4 @@ http://127.0.0.1:8080/health
 You should see: { "status": "ok" }
 
 ### 7. Demo Video
-<video src="Lab3-20250724_182243-Meeting Recording.mp4" controls width="1920"></video>
+[![Demo Video](Lab3-20250724_182243-Meeting Recording.mp4)](Lab3-20250724_182243-Meeting Recording.mp4)
